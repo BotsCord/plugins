@@ -2,4 +2,5 @@
     {"name": "test", "url": "https://raw.githubusercontent.com/BotsCord/plugins/main/plugins/test.py"},
     {"name": "carbon", "url": "https://raw.githubusercontent.com/BotsCord/plugins/main/plugins/carbon.py"},
     {"name": "text to speech", "url": "https://raw.githubusercontent.com/BotsCord/plugins/main/plugins/tts.py"}
+    {"name": "info", "url": "https://raw.githubusercontent.com/BotsCord/plugins/main/plugins/info.py"}
 ]
