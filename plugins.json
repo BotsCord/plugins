@@ -1,3 +1,4 @@
 [
-    {"name": "test", "url": "https://raw.githubusercontent.com/BotsCord/plugins/main/plugins/test.py"}
+    {"name": "test", "url": "https://raw.githubusercontent.com/BotsCord/plugins/main/plugins/test.py"},
+    {"name": "carbon", "url": "https://raw.githubusercontent.com/BotsCord/plugins/main/plugins/carbon.py"}
 ]
