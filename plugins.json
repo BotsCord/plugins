@@ -6,4 +6,5 @@
         "url": "https://raw.githubusercontent.com/BotsCord/plugins/main/plugins/welcomer.py"
     },
     {"name": "text to speech", "url": "https://raw.githubusercontent.com/BotsCord/plugins/main/plugins/tts.py"}
+    {"name": "info", "url": "https://raw.githubusercontent.com/BotsCord/plugins/main/plugins/info.py"}
 ]
