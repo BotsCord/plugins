@@ -9,5 +9,5 @@ class TestCog(commands.Cog):
     async def info(self, ctx):
         await ctx.send("Bot created with discord bots creator")
 
-def setup(bot):
-    bot.add_cog(TestCog(bot))
+async def setup(bot):
+    await bot.add_cog(TestCog(bot))
