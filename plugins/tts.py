@@ -65,6 +65,6 @@ class Speech(commands.Cog):
             await vc.disconnect()
 
 
-def setup(bot):
+async def setup(bot):
   os.system("pip3 install aiogtts")
-    bot.add_cog(Speech(bot))
+  await bot.add_cog(Speech(bot))
