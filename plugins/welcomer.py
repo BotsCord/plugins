@@ -79,6 +79,6 @@ class Welcomer(commands.Cog):
         await ch.send(file=discord.File(fp=image_binary, filename="image.png"))
 
 
-def setup(bot):
+async def setup(bot):
     print("To load welcomer, make sure to have set API_KEY in manager envoirnement variables to a some-ranom-api.ml key!")
-    bot.add_cog(Welcomer(bot))
+    await bot.add_cog(Welcomer(bot))
